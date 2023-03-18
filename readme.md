@@ -1,1 +1,1 @@
-"# Fii Practic 2023" 
+# Fii Practic 2023
